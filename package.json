@@ -1,6 +1,6 @@
 {
   "name": "join-mongo",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "Transform GraphQL AST into MongoDB field specifiers",
   "main": "src/lib.js",
   "scripts": {
