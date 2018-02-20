@@ -1,0 +1,23 @@
+{
+  "name": "join-mongo",
+  "version": "0.1.0",
+  "description": "Transform GraphQL AST into MongoDB field specifiers",
+  "main": "src/lib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "join",
+    "mongo",
+    "graphql",
+    "ast",
+    "mongodb",
+    "field",
+    "specifier"
+  ],
+  "author": "Matteo De Micheli",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-list-fields": "^2.0.0"
+  }
+}
